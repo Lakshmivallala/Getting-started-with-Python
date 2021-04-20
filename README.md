@@ -1,2 +1,2 @@
 # SupPro
-A small intro to Python
+A beginner friendly start to Python programming language
