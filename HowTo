@@ -1,0 +1,12 @@
+INSTALLATION: (WINDOWS)
+Anaconda.com (Free and Open-source distribution of python and R, convenient use for beginners)
+Download for Windows (Latest version)
+Double click anaconda execution file
+Add anaconda to the system path variable
+Open anaconda prompt
+python --version
+conda info (os package management system)
+(ex: conda install numpy)
+Type: jupyter notebook
+Add 2 numbers
+Anaconda navigator (to directly navigate to jupyter notebook/ jupyter lab/ spyder)
